@@ -8,4 +8,4 @@ cmds = ['cd backend && npm install']
 cmds = []
 
 [start]
-cmd = 'node backend/server.js'
+cmd = 'cd backend && node server.js'
